@@ -1,0 +1,1 @@
+ini kita bisa mendecriptnya lalu digunakan metode brute force, namun yang membingungkan adalah padding yang digunakan pada AES ini(sejujurnya masih pemula di dunia crypto jadi bisa dibilang nggak tau apa apa)
