@@ -1,7 +1,6 @@
 pada chall ini kita diberikan sebuah png yang dimana kita perlu menemukan sesuatu yang tersembunyi
 sesuai dengan desc soal yaitu
-![screenshoot of chall flag](compest_16/foren/color_palette/Screenshot from 2024-08-22 18-00-39.png)
-"The visual design team already brainstormed the theme for the Colorfest event, which is "dominance in art". But they are still discussing to choose 5 colors to put into their color palette, can you help them?
+ready brainstormed the theme for the Colorfest event, which is "dominance in art". But they are still discussing to choose 5 colors to put into their color palette, can you help them?
 
 Flag : COMPFEST16{flag}"
 
